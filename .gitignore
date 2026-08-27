@@ -1,0 +1,17 @@
+# media files
+data/*
+!data/.gitkeep
+
+# run outputs
+outputs/
+artifacts/
+paper_figures/
+
+# python
+__pycache__/
+*.pyc
+*.egg-info/
+
+# models
+*.pth
+*.pt
