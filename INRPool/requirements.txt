@@ -1,0 +1,6 @@
+torch>=1.12
+torchvision
+torchaudio
+pytorch-msssim
+# optional: only needed for the video LPIPS metric
+lpips
